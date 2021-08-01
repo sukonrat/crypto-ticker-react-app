@@ -1,0 +1,4 @@
+.tickers {
+    list-style: none;
+    display: inline-flex;
+}
